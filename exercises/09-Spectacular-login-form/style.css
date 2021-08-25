@@ -1,0 +1,17 @@
+* {
+	background-color: rgb(9, 61, 128);
+	height: 100%;
+}
+
+.login {
+	margin: auto;
+}
+
+h1 {
+	color: white;
+	display: block;
+}
+
+form {
+	align-items: center;
+}
